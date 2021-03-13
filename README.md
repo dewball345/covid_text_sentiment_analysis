@@ -9,3 +9,7 @@ const model = tf.loadLayersModel("https://raw.githubusercontent.com/dewball345/c
   console.log(model.summary())
   //Include other model code here
 })
+```
+
+# Include this code to make predictions
+
